@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37531.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkladCv2_2026", "SkladCv2_2026\SkladCv2_2026.csproj", "{CA67C1C0-E489-40BB-85F6-F3A2836BF7CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataEntity", "DataEntity\DataEntity.csproj", "{A3881D9C-1555-4343-821A-57A9C8B49F7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA67C1C0-E489-40BB-85F6-F3A2836BF7CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA67C1C0-E489-40BB-85F6-F3A2836BF7CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA67C1C0-E489-40BB-85F6-F3A2836BF7CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA67C1C0-E489-40BB-85F6-F3A2836BF7CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3881D9C-1555-4343-821A-57A9C8B49F7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3881D9C-1555-4343-821A-57A9C8B49F7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3881D9C-1555-4343-821A-57A9C8B49F7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3881D9C-1555-4343-821A-57A9C8B49F7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5086A8D-D77D-4039-8340-10CD087B7ED1}
+	EndGlobalSection
+EndGlobal
